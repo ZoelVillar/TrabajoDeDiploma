@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\bin\Debug\Singleton.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\TC1_3A_TM\Patrones\Singleton\obj\Debug\Singleton.pdb

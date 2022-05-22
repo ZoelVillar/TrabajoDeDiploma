@@ -1,0 +1,15 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\bin\Debug\PaginaPrincipal.exe.config
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\bin\Debug\PaginaPrincipal.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\bin\Debug\PaginaPrincipal.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.FormPrincipal.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.Properties.Resources.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.csproj.GenerateResource.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.csproj.CopyComplete
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\PaginaPrincipal\PaginaPrincipal\obj\Debug\PaginaPrincipal.FormPerfil.resources

@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[37927,19661],{24488:(_,e,s)=>{s.d(e,{Z:()=>u});var A=s(2784),D=s(57903),L=s(61970),n=s.n(L),t=s(68572);function u(){const{id:_,apiKey:e}=(0,D.v9)(t.cG);return(0,A.useMemo)((()=>n()(_,e)),[_,e])}}}]);

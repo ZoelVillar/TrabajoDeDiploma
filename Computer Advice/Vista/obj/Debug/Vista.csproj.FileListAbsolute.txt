@@ -1,0 +1,48 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\Vista.exe.config
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\Vista.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\Vista.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\BE.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\DAO.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\BE.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\DAO.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.FormLogin.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\Common.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\Common.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.Forms.FormPerfil.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.FormPrincipal.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\Vista\obj\Debug\Vista.FormRegistrarse.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Vista.exe.config
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Vista.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Vista.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\BE.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Common.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\DAO.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\BE.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Common.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\DAO.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.FormLogin.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.FormRegistrarse.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.Forms.FormPerfil.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.FormPrincipal.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\obj\Debug\Vista.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Validaciones.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Vista\bin\Debug\Validaciones.pdb

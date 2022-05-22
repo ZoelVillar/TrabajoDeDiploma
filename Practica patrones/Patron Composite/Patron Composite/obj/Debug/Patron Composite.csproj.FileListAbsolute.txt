@@ -1,0 +1,2 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron Composite\Patron Composite\obj\Debug\Patron Composite.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron Composite\Patron Composite\obj\Debug\Patron Composite.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\bin\Debug\BE.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\bin\Debug\BE.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\bin\Debug\DAO.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\bin\Debug\DAO.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\obj\Debug\BE.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\obj\Debug\BE.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\bin\Debug\Common.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\LoginLayer\BE\bin\Debug\Common.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\bin\Debug\BE.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\bin\Debug\BE.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\bin\Debug\Common.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\bin\Debug\DAO.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\bin\Debug\Common.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\bin\Debug\DAO.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\obj\Debug\BE.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\BE\obj\Debug\BE.pdb

@@ -1,0 +1,6 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advice\Validaciones\obj\Debug\Validaciones.pdb

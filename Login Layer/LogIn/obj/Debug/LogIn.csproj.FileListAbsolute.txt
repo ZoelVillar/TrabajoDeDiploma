@@ -1,0 +1,13 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\bin\Debug\LogIn.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.exe
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Computer Advise\LogIn\obj\Debug\LogIn.csproj.CopyComplete

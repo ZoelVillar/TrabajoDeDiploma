@@ -1,0 +1,6 @@
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron singleton\Patron singleton\bin\Debug\Patron singleton.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron singleton\Patron singleton\bin\Debug\Patron singleton.pdb
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron singleton\Patron singleton\obj\Debug\Patron singleton.csproj.AssemblyReference.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron singleton\Patron singleton\obj\Debug\Patron singleton.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron singleton\Patron singleton\obj\Debug\Patron singleton.dll
+C:\Users\Villa\OneDrive\Facu UAI\3er año\1- Trabajo de campo\Practica patrones\Patron singleton\Patron singleton\obj\Debug\Patron singleton.pdb
